@@ -1,2 +1,2 @@
-# nomad-serets-bws
+# nomad-bws
 Bitwarden secrets manager provider for Nomad
