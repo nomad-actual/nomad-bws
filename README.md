@@ -4,7 +4,7 @@ Bitwarden secrets manager provider for Nomad
 todo: improve :)
 
 # Setup
-Install go, gcc, build-essentials
+Install git, go, gcc, build-essentials
 
 Pull Repo
 cd repo
